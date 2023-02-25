@@ -119,7 +119,7 @@ The message of the review is not entirely visible being truncated.
 
 **Attachments:**
 
-![Truncated review bug 1st image]<img src="https://user-images.githubusercontent.com/85682689/221359585-a42664df-dc6e-4363-a56c-a06d41ae6f7b.png" width="500px" align="center")
+![Truncated review bug 1st image]<img src="https://user-images.githubusercontent.com/85682689/221359585-a42664df-dc6e-4363-a56c-a06d41ae6f7b.png" width="500px" align="center">
 
 ![Broken text review bug 2nd image]<img src="https://user-images.githubusercontent.com/85682689/221359600-8c68a21b-4702-407a-b0f9-185ac5c75699.png" width="500px" align="center">
 
@@ -179,7 +179,7 @@ Image is to large and the review does not fit due to this situation
 
 **Attachments:**
 
-![Missing review bug](https://user-images.githubusercontent.com/85682689/221360623-2c031bb9-51fa-4248-af90-1065541a67d2.png)
+![Missing review bug]<img src="https://user-images.githubusercontent.com/85682689/221360623-2c031bb9-51fa-4248-af90-1065541a67d2.png" width="550px" align="center">
 
 
 ---------------------------------------------------------------------
@@ -239,7 +239,7 @@ The images have different sizes and are not properly aligned with the reviews
 
 **Attachments:**
 
-![Improper arrangement pictures and reviews bug](https://user-images.githubusercontent.com/85682689/221361315-9deaeb7a-d208-4b95-a607-29ea9bb87b97.png)
+![Improper arrangement pictures and reviews bug]<img src="https://user-images.githubusercontent.com/85682689/221361315-9deaeb7a-d208-4b95-a607-29ea9bb87b97.png" width="550px" align="center">
 
 
 --------------------------------------------------------------------------------
@@ -299,4 +299,4 @@ Spelling mistake of the word "area" in the pop-up message when user is uploading
 
 **Attachments:**
 
-![Spelling mistake bug](https://user-images.githubusercontent.com/85682689/221361929-6661ad6c-a4c0-4314-b32e-5c333e1844c1.png)
+![Spelling mistake bug]<img src="https://user-images.githubusercontent.com/85682689/221361929-6661ad6c-a4c0-4314-b32e-5c333e1844c1.png" width="550px" align="center">
