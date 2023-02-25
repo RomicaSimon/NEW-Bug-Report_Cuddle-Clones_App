@@ -9,6 +9,8 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 
 **Description:**
 
+Pictures are not properly aligned having different sizes and different spaces between them
+
 **Steps to reproduce:**
 
 1. In the address bar type in the page URL: https://cuddleclones.com/
@@ -26,7 +28,7 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 * Pictures should have the same size and the same space between them for a correct alignment
 
 **Attachments:**
-
+    
 ![Replica alignment bug 1](https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png)
 
 
