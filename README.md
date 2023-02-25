@@ -56,7 +56,7 @@ Pictures are not properly aligned having different sizes and different spaces be
 ![Replica alignment bug 1](https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png)
 
 
-![Replica alignment bug 2](<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="385px" align="center">)
+![Replica alignment bug 2]<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="385px" align="center">
 
 
 
