@@ -1,7 +1,7 @@
 # NEW-Bug-Report_Cuddle-Clones_App
 This Bug Report contains a few bugs founded while completing the QA Training program at Brainnest company.
 
-### Bug ID: 01
+## Bug ID: 01
 
 **Reporter Name:** Romica Simon
 
@@ -21,7 +21,7 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 
 **Asigned To:** NA
 
-**Summary:**
+### Summary:
 
 [Replicas] Improper alignment of the pictures on the "Replicas" page.
 
@@ -59,10 +59,12 @@ Pictures are not properly aligned having different sizes and different spaces be
 ![Replica alignment bug 2](https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png)
 
 
+
 ----------------------------------------------------------------------------
 
 
-### Bug ID: 02
+
+## Bug ID: 02
 
 **Reporter Name:** Romica Simon
 
@@ -82,7 +84,7 @@ Pictures are not properly aligned having different sizes and different spaces be
 
 **Asigned To:** NA
 
-**Summary:**
+### Summary:
 
 [Replicas] The message of the review is not entirely visible being truncated.
 
