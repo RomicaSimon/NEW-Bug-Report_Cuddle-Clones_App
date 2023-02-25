@@ -155,7 +155,7 @@ The message of the review is not entirely visible being truncated.
 
 Image is to large and the review does not fit due to this situation
 
-****Steps to reproduce:
+**Steps to reproduce:
 
 1. In the address bar type in the page URL: https://cuddleclones.com/
 
