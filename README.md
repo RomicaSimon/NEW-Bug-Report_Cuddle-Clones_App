@@ -27,7 +27,7 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 
 **Attachments:**
 
-![Replica alignment bug 1](https://1drv.ms/u/s!ApoYxr7GfH3U12IClKOfEfLmg89V?e=SzBgYR)
+![Replica alignment bug 1](https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png)
 
 **Priority:** Low
 
