@@ -1,4 +1,4 @@
-# NEW-Bug-Report_Cuddle-Clones-App
+# NEW-Bug-Report_Cuddle-Clones_App
 This Bug Report contains a few bugs founded while completing the QA Training program at Brainnest company.
 
 ### Bug ID: 01
