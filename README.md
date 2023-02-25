@@ -155,7 +155,7 @@ The message of the review is not entirely visible being truncated.
 
 Image is to large and the review does not fit due to this situation
 
-**Steps to reproduce:
+**Steps to reproduce:**
 
 1. In the address bar type in the page URL: https://cuddleclones.com/
 
@@ -184,4 +184,63 @@ Image is to large and the review does not fit due to this situation
 
 ---------------------------------------------------------------------
 
+
+## Bug ID 04
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+**[Replicas] Improper arrangement of the pictures and the reviews in the "Replicas" page**
+
+**Description:**
+
+The images have different sizes and are not properly aligned with the reviews
+
+**Steps to reproduce:**
+
+1. In the address bar type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Hover the mouse over the “Replicas“ tab and click on the “Plush Clones“ link
+
+4. Scroll down until the “Customer Reviews” section
+
+5. Select from the dropdown menu the “Most Helpful“ option
+
+**Actual result:**
+* The images have different sizes and are not properly aligned with the reviews
+
+**Expected result:**
+* The pictures should have the same size and be aligned correctly and the reviews accordingly
+
+**Priority:** Low
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+![Improper arrangement pictures and reviews bug](https://user-images.githubusercontent.com/85682689/221361315-9deaeb7a-d208-4b95-a607-29ea9bb87b97.png)
+
+
+![Improper arrangement pictures and reviews bug](https://user-images.githubusercontent.com/85682689/221361277-ebb9522e-54cd-4360-a14c-57936987c4c2.png)
 
