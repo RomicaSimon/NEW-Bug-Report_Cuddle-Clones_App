@@ -23,7 +23,7 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 
 ### Summary:
 
-[Replicas] Improper alignment of the pictures on the "Replicas" page.
+**[Replicas] Improper alignment of the pictures on the "Replicas" page.**
 
 **Description:**
 
@@ -86,9 +86,11 @@ Pictures are not properly aligned having different sizes and different spaces be
 
 ### Summary:
 
-[Replicas] The message of the review is not entirely visible being truncated.
+**[Replicas] The message of the review is not entirely visible being truncated.**
 
 **Description:**
+
+The message of the review is not entirely visible being truncated.
 
 **Steps to reproduce:**
 
@@ -122,5 +124,64 @@ Pictures are not properly aligned having different sizes and different spaces be
 ![Broken text review bug 2nd image](https://user-images.githubusercontent.com/85682689/221359600-8c68a21b-4702-407a-b0f9-185ac5c75699.png)
 
 
+--------------------------------------------------------------------
+
+
+## Bug ID 03
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+**[Replicas] Missing review due to too large image.**
+
+**Description:**
+
+Image is to large and the review does not fit due to this situation
+
+****Steps to reproduce:
+
+1. In the address bar type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Hover the cursor over the “Replicas” tab and click on the “Plush Clones” link
+
+4. Scroll down until the review section “A  few  of our satisfied customers!“
+
+**Actual result:**
+* There is no review under the last picture from the bottom right corner of the page due to too large image
+
+**Expected result:**
+* There should be a review under the picture just like the others have
+
+**Priority:** Low
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+![Missing review bug](https://user-images.githubusercontent.com/85682689/221360623-2c031bb9-51fa-4248-af90-1065541a67d2.png)
+
+
+---------------------------------------------------------------------
 
 
