@@ -271,7 +271,7 @@ The images have different sizes and are not properly aligned with the reviews
 
 **Description:**
 
-The word "area" is written incorectly in the pop-up message
+Spelling mistake of the word "area" in the pop-up message when user is uploading an image
 
 **Steps to reproduce:**
 
@@ -298,4 +298,5 @@ The word "area" is written incorectly in the pop-up message
 **Reproducibility:** Always
 
 **Attachments:**
+
 ![Spelling mistake bug](https://user-images.githubusercontent.com/85682689/221361929-6661ad6c-a4c0-4314-b32e-5c333e1844c1.png)
