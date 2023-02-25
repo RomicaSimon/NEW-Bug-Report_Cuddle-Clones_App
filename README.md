@@ -53,10 +53,10 @@ Pictures are not properly aligned having different sizes and different spaces be
 
 **Attachments:**
     
-![Replica alignment bug 1]<img src="https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png" width="385">
+![Replica alignment bug 1]<img src="https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png" width="450px" align="center">
 
 
-![Replica alignment bug 2]<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="385px">
+![Replica alignment bug 2]<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="450px" align="center">
 
 
 
