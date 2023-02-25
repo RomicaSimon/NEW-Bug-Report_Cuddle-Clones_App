@@ -3,6 +3,24 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 
 ### Bug ID: 01
 
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+ 
+**Reporter Name:** Romica Simon
+
 **Summary:**
 
 [Replica] Improper alignment of the pictures on the "Replicas" page.
@@ -27,6 +45,12 @@ Pictures are not properly aligned having different sizes and different spaces be
 **Expected result:**
 * Pictures should have the same size and the same space between them for a correct alignment
 
+**Priority:** Low
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
 **Attachments:**
     
 ![Replica alignment bug 1](https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png)
@@ -35,27 +59,5 @@ Pictures are not properly aligned having different sizes and different spaces be
 ![Replica alignment bug 2](https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png)
 
 
-**Priority:** Low
 
-**Severity:** Minor
-
-**Reproducibility:** Always
- 
- **Status:** New
- 
- **Resolution:** Open
- 
- **Platform/Browser:** Laptop / Chrome, Firefox, Edge
- 
- **OS:** Windows
- 
- **OS Version:** 11
- 
- **Build/Version:** NA
- 
- **Date:** 13.10.2022
- 
- **Asigned To:** NA
- 
- **Reporter Name:** Romica Simon
 
