@@ -242,5 +242,5 @@ The images have different sizes and are not properly aligned with the reviews
 ![Improper arrangement pictures and reviews bug](https://user-images.githubusercontent.com/85682689/221361315-9deaeb7a-d208-4b95-a607-29ea9bb87b97.png)
 
 
-![Improper arrangement pictures and reviews bug](https://user-images.githubusercontent.com/85682689/221361277-ebb9522e-54cd-4360-a14c-57936987c4c2.png)
+--------------------------------------------------------------------------------
 
