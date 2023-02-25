@@ -25,6 +25,10 @@ This Bug Report contains a few bugs founded while completing the QA Training pro
 **Expected result:**
 * Pictures should have the same size and the same space between them for a correct alignment
 
+**Attachments:**
+
+![Replica alignment bug 1](https://1drv.ms/u/s!ApoYxr7GfH3U12IClKOfEfLmg89V?e=he1LUo)
+
 **Priority:** Low
 
 **Severity:** Minor
