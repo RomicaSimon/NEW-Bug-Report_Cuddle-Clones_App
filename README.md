@@ -53,10 +53,10 @@ Pictures are not properly aligned having different sizes and different spaces be
 
 **Attachments:**
     
-![Replica alignment bug 1]<img src="https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png" width="450px" align="center">
+![Replica alignment bug 1]<img src="https://user-images.githubusercontent.com/85682689/221357304-92e74fa4-132a-4570-bc9c-a6e0c4dcec3b.png" width="500px" align="center">
 
 
-![Replica alignment bug 2]<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="450px" align="center">
+![Replica alignment bug 2]<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="500px" align="center">
 
 
 
@@ -119,9 +119,9 @@ The message of the review is not entirely visible being truncated.
 
 **Attachments:**
 
-![Truncated review bug 1st image](https://user-images.githubusercontent.com/85682689/221359585-a42664df-dc6e-4363-a56c-a06d41ae6f7b.png)
+![Truncated review bug 1st image]<img src="https://user-images.githubusercontent.com/85682689/221359585-a42664df-dc6e-4363-a56c-a06d41ae6f7b.png" width="500px" align="center")
 
-![Broken text review bug 2nd image](https://user-images.githubusercontent.com/85682689/221359600-8c68a21b-4702-407a-b0f9-185ac5c75699.png)
+![Broken text review bug 2nd image](https://user-images.githubusercontent.com/85682689/221359600-8c68a21b-4702-407a-b0f9-185ac5c75699.png link | width=100)
 
 
 --------------------------------------------------------------------
