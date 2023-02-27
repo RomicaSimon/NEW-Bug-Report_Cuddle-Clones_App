@@ -358,3 +358,66 @@ The "UPLOAD YOUR IMAGE" button is activated when is clicked outside of its field
 **Attachments:**
 
 [UPLOAD YOUR IMAGE button activating bug](https://1drv.ms/v/s!ApoYxr7GfH3U13_eunb_DkW2o5hR?e=o8PaEu)
+
+
+-----------------------------------------------------------------------------
+
+
+## Bug ID: 07
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+***[Ball Markers] The color of the ball markers is not updating according to the user's changes.***
+
+**Description:**
+
+The color of the ball markers is not updating according to the user's changes.
+
+**Steps to reproduce:**
+
+1. In the address bar, type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Hover the mouse over the “Golf“ tab and click on the “Ball Markers“ link
+
+4. Select alternatively different colors like Green, Black, Yellow, or Blue from the “Color“ dropdown menu
+
+**Actual result:**
+* The color of the Ball Markers in the picture remains unchanged [Red].
+
+**Expected result:**
+* The color of the Ball Markers in the picture should change according to the user’s settings by selecting alternatively different colors from the dropdown list.
+
+**Priority:** Lowest
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+[Color of the ball markers bug]()
+
+
+
+
+
