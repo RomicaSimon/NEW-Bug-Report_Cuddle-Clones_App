@@ -300,3 +300,59 @@ Spelling mistake of the word "area" in the pop-up message when user is uploading
 **Attachments:**
 
 ![Spelling mistake bug]<img src="https://user-images.githubusercontent.com/85682689/221361929-6661ad6c-a4c0-4314-b32e-5c333e1844c1.png" width="550px" align="center">
+
+
+-----------------------------------------------------------------------------------
+
+
+## Bug ID 06
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+***[Golf Balls] The "UPLOAD YOUR IMAGE" button is activated when is clicked outside of its field***
+
+**Description:**
+
+The "UPLOAD YOUR IMAGE" button is activated when is clicked outside of its field
+
+**Steps to reproduce:**
+
+1. In the address bar, type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Hover the mouse over the “Golf“ tab and click on the “Golf balls“ link
+
+4.Click on the outside of the“UPLOAD YOUR IMAGE“ button, but in the appropriate area
+
+**Actual result:**
+* The “UPLOAD YOUR IMAGE“ button is activated and the File Explorer from the user’s device is opening
+
+**Expected result:**
+* The “UPLOAD YOUR IMAGE“ button should be active only when is clicked on its field not outside of it
+
+**Priority:** Medium
+
+**Severity:** Normal
+
+**Reproducibility:** Sometimes
+
+**Attachments:**
