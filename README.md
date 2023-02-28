@@ -355,7 +355,7 @@ The "UPLOAD YOUR IMAGE" button is activated when is clicked outside of its field
 
 **Attachments:**
 
-[UPLOAD YOUR IMAGE button activating bug](https://1drv.ms/v/s!ApoYxr7GfH3U13_eunb_DkW2o5hR?e=o8PaEu)
+[UPLOAD YOUR IMAGE button activating bug](https://1drv.ms/v/s!ApoYxr7GfH3U2ADgriovHmi9fIjb?e=kaYtiQ)
 
 
 -----------------------------------------------------------------------------
