@@ -59,9 +59,7 @@ Pictures are not properly aligned having different sizes and different spaces be
 ![Replica alignment bug 2]<img src="https://user-images.githubusercontent.com/85682689/221357372-6273566f-795c-485e-94ae-92681fca8f55.png" width="500px" align="center">
 
 
-
 ----------------------------------------------------------------------------
-
 
 
 ## Bug ID: 02
@@ -415,7 +413,10 @@ The color of the ball markers is not updating according to the user's changes.
 
 **Attachments:**
 
-[Color of the ball markers bug]()
+[Color of the ball markers bug](https://1drv.ms/v/s!ApoYxr7GfH3U2AILw3nPkCtR2Y6Z?e=7KsN1x)
+
+------------------------------------------------------------------------------
+
 
 
 
