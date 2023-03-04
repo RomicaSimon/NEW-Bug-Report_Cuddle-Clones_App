@@ -417,6 +417,59 @@ The color of the ball markers is not updating according to the user's changes.
 
 ------------------------------------------------------------------------------
 
+## Bug ID: 08
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+***[Dog Mom Shirt] Overlapping reviews and missing spaces between them.***
+
+**Description:**
+
+The reviews are not properly aligned, they are tight together, missing space between them and are overlapping
+
+**Steps to reproduce:**
+
+1. In the address bar, type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Hover the mouse over the “Apparel“ tab and click on the “Dog Mom Shirt“ link
+
+4.Scroll down until the Customer Reviews section
+
+**Actual result:**
+* The reviews are overlapping and there is missing space between them.
+
+**Expected result:**
+* The reviews should not overlap and some space should be present between them.
+
+**Priority:** Low
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+![Overlaopping reviews](https://user-images.githubusercontent.com/85682689/222929252-7904a231-a6dc-403b-af13-41f4ad090d57.png)
 
 
 
