@@ -453,7 +453,7 @@ The reviews are not properly aligned, they are tight together, missing space bet
 
 3. Hover the mouse over the “Apparel“ tab and click on the “Dog Mom Shirt“ link
 
-4.Scroll down until the Customer Reviews section
+4. Scroll down until the Customer Reviews section
 
 **Actual result:**
 * The reviews are overlapping and there is missing space between them.
@@ -469,7 +469,7 @@ The reviews are not properly aligned, they are tight together, missing space bet
 
 **Attachments:**
 
-![Overlaopping reviews](https://user-images.githubusercontent.com/85682689/222929252-7904a231-a6dc-403b-af13-41f4ad090d57.png)
+![Overlaopping reviews]<img src="https://user-images.githubusercontent.com/85682689/222929252-7904a231-a6dc-403b-af13-41f4ad090d57.png" width="550px" align="center">
 
 
 
