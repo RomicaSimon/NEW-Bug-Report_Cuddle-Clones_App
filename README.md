@@ -471,6 +471,65 @@ The reviews are not properly aligned, they are tight together, missing space bet
 
 ![Overlaopping reviews]<img src="https://user-images.githubusercontent.com/85682689/222929252-7904a231-a6dc-403b-af13-41f4ad090d57.png" width="550px" align="center">
 
+--------------------------------------------------------
+
+## Bug ID: 09
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+***[Create Account] Missing proper validation for "First name" field.***
+
+**Description:**
+
+There is missing proper validation for "First name" field; Digits are accepted in the "First name" field.
+
+**Steps to reproduce:**
+
+1. In the address bar, type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Click on the “Login” icon from the homepage
+
+4. Click on the “Sign up“ link from the Customer Login page
+
+5. Enter “12345“ in the First name field and fill all the other fields with valid data
+
+6. Click on the “SIGN UP“ button
+
+**Actual result:**
+* Digits are accepted in the First name field.
+
+**Expected result:**
+* Digits should not be accepted in the First name field.
+
+**Priority:** Low
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+
 
 
 
