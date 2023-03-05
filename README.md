@@ -529,6 +529,11 @@ There is missing proper validation for "First name" field; Digits are accepted i
 
 **Attachments:**
 
+![Create Account bug1]<img src="https://user-images.githubusercontent.com/85682689/222987447-87f8e2bc-1304-4b14-a39e-9f91156c05a4.png" width="550px" align="center">
+
+![Create Account bug2]<img src="https://user-images.githubusercontent.com/85682689/222987457-8427051f-6916-46af-bbc2-47e3a841b5d0.png" width="550px">
+
+
 
 
 
