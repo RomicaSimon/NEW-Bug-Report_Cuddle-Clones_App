@@ -516,10 +516,10 @@ There is missing proper validation for "First name" field; Digits are accepted i
 6. Click on the “SIGN UP“ button
 
 **Actual result:**
-* Digits are accepted in the First name field.
+* Digits are accepted in the "First name" field.
 
 **Expected result:**
-* Digits should not be accepted in the First name field.
+* Digits should not be accepted in the "First name" field.
 
 **Priority:** Low
 
@@ -534,6 +534,70 @@ There is missing proper validation for "First name" field; Digits are accepted i
 <br/>
 
 ![Create Account bug2]<img src="https://user-images.githubusercontent.com/85682689/222987457-8427051f-6916-46af-bbc2-47e3a841b5d0.png" width="550px" align="center">
+
+-------------------------------------------------------------------
+
+## Bug ID: 10
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+***[Create Account] Missing proper validation for "Last name" field.***
+
+**Description:**
+
+There is missing proper validation for "Last name" field; Digits are accepted in the "Last name" field.
+
+**Steps to reproduce:**
+
+1. In the address bar, type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Click on the “Login” icon from the homepage
+
+4. Click on the “Sign up“ link from the Customer Login page
+
+5. Enter “987%$#“ in the Last name field and fill all the other fields with valid data
+
+6. Click on the “SIGN UP“ button
+
+**Actual result:**
+* Digits and special characters are accepted in the “Last name“ field.
+
+**Expected result:**
+* Digits and special characters should not be accepted in the "Last name" field.
+
+**Priority:** Low
+
+**Severity:** Minor
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+![Register Account Last name bug 1](https://user-images.githubusercontent.com/85682689/223555055-761ad566-34a3-4712-b70e-fd6c1c1cf74e.png)
+
+</br>
+
+![Register Account Last name bug 2](https://user-images.githubusercontent.com/85682689/223555149-326a8e4e-ff7b-47b0-98dd-669d27233276.png)
 
 
 
