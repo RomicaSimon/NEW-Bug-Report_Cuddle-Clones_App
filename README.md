@@ -593,11 +593,11 @@ There is missing proper validation for "Last name" field; Digits are accepted in
 
 **Attachments:**
 
-![Register Account Last name bug 1](https://user-images.githubusercontent.com/85682689/223555055-761ad566-34a3-4712-b70e-fd6c1c1cf74e.png)
+![Register Account Last name bug 1]<img src="https://user-images.githubusercontent.com/85682689/223555055-761ad566-34a3-4712-b70e-fd6c1c1cf74e.png" width="550px" align="center">
 
 </br>
 
-![Register Account Last name bug 2](https://user-images.githubusercontent.com/85682689/223555149-326a8e4e-ff7b-47b0-98dd-669d27233276.png)
+![Register Account Last name bug 2]<img src="https://user-images.githubusercontent.com/85682689/223555149-326a8e4e-ff7b-47b0-98dd-669d27233276.png" width="550px" align="center">
 
 
 
