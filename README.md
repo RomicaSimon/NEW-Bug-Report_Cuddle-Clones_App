@@ -599,6 +599,63 @@ There is missing proper validation for "Last name" field; Digits are accepted in
 
 ![Register Account Last name bug 2]<img src="https://user-images.githubusercontent.com/85682689/223555149-326a8e4e-ff7b-47b0-98dd-669d27233276.png" width="550px" align="center">
 
+------------------------------------------------------------------
+
+
+## Bug ID: 11
+
+**Reporter Name:** Romica Simon
+
+**Status:** New
+
+**Resolution:** Open
+
+**Platform/Browser:** Laptop / Chrome, Firefox, Edge
+
+**OS:** Windows
+
+**OS Version:** 11
+
+**Build/Version:** NA
+
+**Date:** 13.10.2022
+
+**Asigned To:** NA
+
+### Summary:
+
+***[Shipping] User data is used for shipping without the user being logged in.***
+
+**Description:**
+
+User data is used for shipping without the user being logged in.
+
+**Steps to reproduce:**
+1. In the address bar, type in the page URL: https://cuddleclones.com/
+
+2. Click Enter and verify if the user is redirected to the Cuddle Clones landing page
+
+3. Click on the “Login“ icon from the Header
+
+4. Click on the “Cart“ icon (bag) from the Header
+
+5. Click on the “PROCEED TO CHECKOUT“ button
+
+**Actual result:**
+* User data is displayed and available for shipping without the user being logged in.
+
+**Expected result:**
+* User data should not be available for shipping without the user being logged in.
+
+**Priority:** High
+
+**Severity:** Critical
+
+**Reproducibility:** Always
+
+**Attachments:**
+
+
 
 
 
